@@ -1,0 +1,14 @@
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.AssemblyInfoInputs.cache
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.AssemblyInfo.cs
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.csproj.CoreCompileInputs.cache
+D:\Advance_Training\Datatype_demo\Datatype_demo\bin\Debug\net8.0\Datatype_demo.exe
+D:\Advance_Training\Datatype_demo\Datatype_demo\bin\Debug\net8.0\Datatype_demo.deps.json
+D:\Advance_Training\Datatype_demo\Datatype_demo\bin\Debug\net8.0\Datatype_demo.runtimeconfig.json
+D:\Advance_Training\Datatype_demo\Datatype_demo\bin\Debug\net8.0\Datatype_demo.dll
+D:\Advance_Training\Datatype_demo\Datatype_demo\bin\Debug\net8.0\Datatype_demo.pdb
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.dll
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\refint\Datatype_demo.dll
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.pdb
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\Datatype_demo.genruntimeconfig.cache
+D:\Advance_Training\Datatype_demo\Datatype_demo\obj\Debug\net8.0\ref\Datatype_demo.dll

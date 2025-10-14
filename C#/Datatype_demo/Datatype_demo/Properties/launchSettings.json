@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Datatype_demo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance_Training\\Datatype_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7064069E-2750-4027-BA94-137C69CD1F72}|Datatype_demo\\Datatype_demo.csproj|d:\\advance_training\\datatype_demo\\datatype_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7064069E-2750-4027-BA94-137C69CD1F72}|Datatype_demo\\Datatype_demo.csproj|solutionrelative:datatype_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\Datatype_demo\\Datatype_demo\\Program.cs",
+              "RelativeDocumentMoniker": "Datatype_demo\\Program.cs",
+              "ToolTip": "D:\\Advance_Training\\Datatype_demo\\Datatype_demo\\Program.cs",
+              "RelativeToolTip": "Datatype_demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T05:31:40.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
