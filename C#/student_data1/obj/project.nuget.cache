@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b3Ojo1WZ9y0=",
+  "success": true,
+  "projectFilePath": "D:\\Advance_Training\\Student_Data\\Student_Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.8\\microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.8\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

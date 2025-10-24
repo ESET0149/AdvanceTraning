@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Advance_Training\\Student_Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B714126-A49F-4C1A-AD00-67124B3E9495}|Student_Data.csproj|d:\\advance_training\\student_data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B714126-A49F-4C1A-AD00-67124B3E9495}|Student_Data.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8127B5F7-29BF-461C-BCD9-175DCDB4907C}|Student_data.csproj|d:\\advance_training\\student_data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127B5F7-29BF-461C-BCD9-175DCDB4907C}|Student_data.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8127B5F7-29BF-461C-BCD9-175DCDB4907C}|Student_data.csproj|d:\\advance_training\\student_data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8127B5F7-29BF-461C-BCD9-175DCDB4907C}|Student_data.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\Student_Data\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\Advance_Training\\Student_Data\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:30:15.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,9 +45,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Advance_Training\\Student_Data\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAYwEsAAACZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T10:45:21.407Z",
+              "WhenOpened": "2025-10-16T05:28:46.615Z",
               "EditorCaption": ""
             }
           ]

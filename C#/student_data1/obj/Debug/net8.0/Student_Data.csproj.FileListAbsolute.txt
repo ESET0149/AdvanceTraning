@@ -1,0 +1,14 @@
+D:\Advance_Training\Student_Data\bin\Debug\net8.0\Student_Data.exe
+D:\Advance_Training\Student_Data\bin\Debug\net8.0\Student_Data.deps.json
+D:\Advance_Training\Student_Data\bin\Debug\net8.0\Student_Data.runtimeconfig.json
+D:\Advance_Training\Student_Data\bin\Debug\net8.0\Student_Data.dll
+D:\Advance_Training\Student_Data\bin\Debug\net8.0\Student_Data.pdb
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.AssemblyInfoInputs.cache
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.AssemblyInfo.cs
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.csproj.CoreCompileInputs.cache
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.dll
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\refint\Student_Data.dll
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.pdb
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\Student_Data.genruntimeconfig.cache
+D:\Advance_Training\Student_Data\obj\Debug\net8.0\ref\Student_Data.dll

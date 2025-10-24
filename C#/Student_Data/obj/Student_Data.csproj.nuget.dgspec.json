@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Advance_Training\\Student_Data\\Student_Data.csproj": {}
+    "D:\\Advance_Training\\Student_data\\Student_data.csproj": {}
   },
   "projects": {
-    "D:\\Advance_Training\\Student_Data\\Student_Data.csproj": {
+    "D:\\Advance_Training\\Student_data\\Student_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Advance_Training\\Student_Data\\Student_Data.csproj",
-        "projectName": "Student_Data",
-        "projectPath": "D:\\Advance_Training\\Student_Data\\Student_Data.csproj",
+        "projectUniqueName": "D:\\Advance_Training\\Student_data\\Student_data.csproj",
+        "projectName": "Student_data",
+        "projectPath": "D:\\Advance_Training\\Student_data\\Student_data.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Advance_Training\\Student_Data\\obj\\",
+        "outputPath": "D:\\Advance_Training\\Student_data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,18 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.DotNet.ILCompiler": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.8, )",
-              "autoReferenced": true
-            },
-            "Microsoft.NET.ILLink.Tasks": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.8, )",
-              "autoReferenced": true
-            },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.21.0, )"
@@ -74,12 +62,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "runtime.win-x64.Microsoft.DotNet.ILCompiler",
-              "version": "[8.0.8, 8.0.8]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
