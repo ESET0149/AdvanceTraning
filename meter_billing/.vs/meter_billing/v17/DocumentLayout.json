@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advance_Training\\meter_billing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|d:\\advance_training\\meter_billing\\coustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|solutionrelative:coustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|d:\\advance_training\\meter_billing\\smart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|solutionrelative:smart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|d:\\advance_training\\meter_billing\\map_meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|solutionrelative:map_meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|d:\\advance_training\\meter_billing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|d:\\advance_training\\meter_billing\\add_reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|solutionrelative:add_reading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|d:\\advance_training\\meter_billing\\genrate_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46882A5C-7770-4B82-8F5B-03945C0776D3}|meter_billing.csproj|solutionrelative:genrate_bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "genrate_bill.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\meter_billing\\genrate_bill.cs",
+              "RelativeDocumentMoniker": "genrate_bill.cs",
+              "ToolTip": "D:\\Advance_Training\\meter_billing\\genrate_bill.cs",
+              "RelativeToolTip": "genrate_bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T11:33:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "add_reading.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\meter_billing\\add_reading.cs",
+              "RelativeDocumentMoniker": "add_reading.cs",
+              "ToolTip": "D:\\Advance_Training\\meter_billing\\add_reading.cs",
+              "RelativeToolTip": "add_reading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:37:59.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "map_meter.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\meter_billing\\map_meter.cs",
+              "RelativeDocumentMoniker": "map_meter.cs",
+              "ToolTip": "D:\\Advance_Training\\meter_billing\\map_meter.cs",
+              "RelativeToolTip": "map_meter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:36:29.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "smart.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\meter_billing\\smart.cs",
+              "RelativeDocumentMoniker": "smart.cs",
+              "ToolTip": "D:\\Advance_Training\\meter_billing\\smart.cs",
+              "RelativeToolTip": "smart.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T10:03:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "coustomer.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\meter_billing\\coustomer.cs",
+              "RelativeDocumentMoniker": "coustomer.cs",
+              "ToolTip": "D:\\Advance_Training\\meter_billing\\coustomer.cs",
+              "RelativeToolTip": "coustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:23:42.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advance_Training\\meter_billing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Advance_Training\\meter_billing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:14:56.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

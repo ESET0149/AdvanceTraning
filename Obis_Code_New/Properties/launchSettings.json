@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Obis_Code_New": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

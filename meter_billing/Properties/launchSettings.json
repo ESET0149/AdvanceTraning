@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "meter_billing": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Advance_Training\meter_billing\bin\Debug\net8.0\meter_billing.exe
+D:\Advance_Training\meter_billing\bin\Debug\net8.0\meter_billing.deps.json
+D:\Advance_Training\meter_billing\bin\Debug\net8.0\meter_billing.runtimeconfig.json
+D:\Advance_Training\meter_billing\bin\Debug\net8.0\meter_billing.dll
+D:\Advance_Training\meter_billing\bin\Debug\net8.0\meter_billing.pdb
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.AssemblyInfoInputs.cache
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.AssemblyInfo.cs
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.csproj.CoreCompileInputs.cache
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.dll
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\refint\meter_billing.dll
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.pdb
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\meter_billing.genruntimeconfig.cache
+D:\Advance_Training\meter_billing\obj\Debug\net8.0\ref\meter_billing.dll

@@ -1,0 +1,14 @@
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.AssemblyInfoInputs.cache
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.AssemblyInfo.cs
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.csproj.CoreCompileInputs.cache
+D:\Advance_Training\Pattern_Loop\bin\Debug\net8.0\Pattern_Loop.exe
+D:\Advance_Training\Pattern_Loop\bin\Debug\net8.0\Pattern_Loop.deps.json
+D:\Advance_Training\Pattern_Loop\bin\Debug\net8.0\Pattern_Loop.runtimeconfig.json
+D:\Advance_Training\Pattern_Loop\bin\Debug\net8.0\Pattern_Loop.dll
+D:\Advance_Training\Pattern_Loop\bin\Debug\net8.0\Pattern_Loop.pdb
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.dll
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\refint\Pattern_Loop.dll
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.pdb
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\Pattern_Loop.genruntimeconfig.cache
+D:\Advance_Training\Pattern_Loop\obj\Debug\net8.0\ref\Pattern_Loop.dll
